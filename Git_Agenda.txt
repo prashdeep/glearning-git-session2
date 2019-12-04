@@ -25,6 +25,10 @@
     c. git add 
     d. git status                                     
     e. git commit 
+        Every commit should contain
+            1. Who committing the change - the configuration
+            2. When the changes was committed - from the system time
+            3. Why the changes were committed - passed via the -m option
     f. git checkout 
     g. git reset 
 6. HEAD and commits 
