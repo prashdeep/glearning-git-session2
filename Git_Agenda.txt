@@ -1,0 +1,40 @@
+                                    GIT Fundamentals
+1. Introduction to VCS
+    a. versioning of documents/code 
+    b. storing the codebase in a Centralized location 
+    c. Create parallel branches 
+    d. collaborate with developers and handle the conflicts gracefully 
+    e. Authentication and Authorization 
+2. Types Of VCS 
+    a. Centralized 
+       i. Perforce
+       ii. CVS 
+       iii. Clear Case by Rational Rose 
+    b. Distributed 
+        i. Git 
+        ii. Mercurial
+3. Advantages   
+    a. Speed 
+    b. Cheap branches
+    c. Supports non linear workflows 
+    d. Scalability
+4. Initializing GIT
+5. Git commands 
+    a. git config 
+    b. git init
+    c. git add 
+    d. git status                                     
+    e. git commit 
+    f. git checkout 
+    g. git reset 
+6. HEAD and commits 
+7. Working with branches 
+    a. creating branches 
+    b. Merging the branch
+    c. deleting branches 
+8. Working with Github 
+    a. Creating repositories 
+    b. Cloning repositories 
+    c. Pushing the changes 
+    d. Pulling the changes 
+    e. Raising the pull requests
